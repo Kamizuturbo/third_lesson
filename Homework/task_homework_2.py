@@ -1,1 +1,1 @@
-print ("Homework!")\
+print("Homework!")
